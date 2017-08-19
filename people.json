@@ -1,0 +1,44 @@
+{
+    "programmers": [
+        {
+            "firstName": "Ahmad",
+            "lastName": "Mohammad",
+            "typingSpeed": 60.0,
+            "favouriteOS": "Linux Ubuntu",
+            "favouriteDrink": "Cappuccino",
+            "salary": 80000
+        },
+        {
+            "firstName": "Rami",
+            "lastName": "Samih",
+            "typingSpeed": 39.5,
+            "favouriteOS": "MacOS",
+            "favouriteDrink": "Cappuccino",
+            "salary": 99000
+        },
+        {
+            "firstName": "Saeed",
+            "lastName": "Mohammad",
+            "typingSpeed": 42.2,
+            "favouriteOS": "Windows 10",
+            "favouriteDrink": "Dark Coffee",
+            "salary": 72000
+        },
+        {
+            "firstName": "Abdullah",
+            "lastName": "Abdurrahman",
+            "typingSpeed": 66.4,
+            "favouriteOS": "Windows 10",
+            "favouriteDrink": "Ice Tea",
+            "salary": 108000
+        },
+        {
+            "firstName": "Faisal",
+            "lastName": "Amer",
+            "typingSpeed": 76.2,
+            "favouriteOS": "Arch Linux",
+            "favouriteDrink": "Milk",
+            "salary": 190000
+        }
+    ]
+}
